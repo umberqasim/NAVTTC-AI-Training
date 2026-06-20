@@ -201,7 +201,7 @@ All lecture summaries and quizzes are saved automatically after generation and c
 
 ## ⚠️ Known Limitations
 
-- Videos with captions disabled and Auto-dubbed captions cannot be processed — transcript unavailable
+- Videos with captions disabled cannot be processed — transcript unavailable
 - Groq free tier has rate limits — heavy usage may require retry logic
 - Very long lectures may exceed LLM context window — chunking not yet implemented
 
@@ -224,7 +224,7 @@ All lecture summaries and quizzes are saved automatically after generation and c
 |---|---|
 | Videos with original captions | ✅ Yes |
 | Videos with auto-generated captions | ✅ Yes |
-| Videos with auto-dubbed captions | ❌ No |
+| Videos with auto-dubbed captions | ✅ Yes |
 | Videos with captions disabled | ❌ No |
 
 ---
