@@ -69,7 +69,7 @@ The transcript is fetched automatically — no manual input needed beyond the UR
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/umberqasim/LectureLens.git
+git clone https://github.com/umberqasim/NAVTTC-AI-Training.git
 cd LectureLens
 ```
 
@@ -162,11 +162,3 @@ CREATE TABLE history (
 ## Demo Video
 
 [Watch the full system demo](https://drive.google.com/file/d/1ZdiAzPjFCCnu7rlbg9U3g2hle8gDd5ls/view?usp=sharing) — covers pasting a URL, the generated summary, the interactive quiz, and the History Log.
-
----
-
-## Author
-
-**Umber Qasim** — Software Engineering Student, Fatima Jinnah Women University, Rawalpindi
-
-Developed as part of the **NAVTTC Government-Certified AI Training Program** (Feb–May 2025).
