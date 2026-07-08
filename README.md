@@ -1,59 +1,70 @@
 # 🎓 NAVTTC AI Training Program
 
-This repository documents my learning journey during the Government of Pakistan NAVTTC Artificial Intelligence – Practical Implementation Program, completed at CS Technologies, Rawalpindi.
+This repository documents my learning journey during the **Government of Pakistan NAVTTC Artificial Intelligence – Practical Implementation Program**, completed at **CS Technologies, Rawalpindi**.
 
-Duration: February 2026 – May 2026 (3 Months)
+**📅 Duration:** February 2026 – May 2026 (3 Months)
 
-## Program Overview
+---
 
-During this training, I studied both the theoretical foundations and practical implementation of modern Artificial Intelligence technologies.
+## 📖 Program Overview
 
-### Topics Covered
+During this training, I gained both theoretical knowledge and practical experience in modern Artificial Intelligence technologies through hands-on projects and real-world implementation.
 
-Artificial Intelligence Fundamentals
+---
 
-Machine Learning
+## 📚 Topics Covered
 
-Deep Learning
+- Artificial Intelligence Fundamentals
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Prompt Engineering
+- Data Preprocessing
+- Model Training & Evaluation
+- AI Project Development
+- Responsible AI Principles
 
-Natural Language Processing (NLP)
+---
 
-Prompt Engineering
+## 🏅 International Certification
 
-Data Preprocessing
+### Microsoft Azure AI Fundamentals (AI-900)
 
-Model Training & Evaluation
+Successfully earned the **Microsoft Azure AI Fundamentals (AI-900)** certification, covering:
 
-AI Project Development
+- AI & Machine Learning Concepts
+- Azure AI Services
+- Natural Language Processing (NLP)
+- Computer Vision
+- Generative AI
+- Responsible AI Principles
 
-Responsible AI Principles
+---
 
-## International Certification
+## 💻 Project Included
 
-Microsoft Azure AI Fundamentals (AI-900)
+### 📚 LectureLens — AI-Powered Lecture Summariser & Quiz Generator
 
-Certified in core AI/ML concepts, Azure cognitive services, NLP, Computer Vision, Generative AI, and Responsible AI principles.
+During this training, I developed **LectureLens**, an AI-powered application that enables users to:
 
-## Project Included
+- Upload lecture videos
+- Generate AI-powered lecture summaries
+- Create quizzes automatically
+- Generate captions
+- Improve learning efficiency using Artificial Intelligence
 
-📚 LectureLens — AI-Powered Lecture Summariser & Quiz Generator
+📄 **Project Documentation:**  
+`Project/LectureLens/README.md`
 
-An AI application developed during the training that allows users to:
+---
 
-Upload lecture videos
+## 📜 Certifications
 
-Generate lecture summaries
+- Government Certified **NAVTTC Artificial Intelligence – Practical Implementation**
+- **Microsoft Azure AI Fundamentals (AI-900)**
 
-Create AI-generated quizzes
+---
 
-Generate captions
+## 🙏 Acknowledgement
 
-Improve learning efficiency using AI
-
-➡️ Project documentation is available in Project/LectureLens/README.md
-
-## Certifications
-
-Government Certified NAVTTC Artificial Intelligence – Practical Implementation
-
-Microsoft Azure AI Fundamentals (AI-900)
+This training was conducted under the **National Vocational & Technical Training Commission (NAVTTC)** in collaboration with **CS Technologies, Rawalpindi**, providing practical, industry-oriented training in Artificial Intelligence.
