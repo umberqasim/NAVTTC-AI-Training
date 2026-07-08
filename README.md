@@ -59,6 +59,7 @@ During this training, I developed **LectureLens**, an AI-powered application tha
 ---
 
 ## 📜 Certifications
+My professional certifications are available in the **[Professional-Certifications](https://github.com/umberqasim/Professional-Certifications)** repository.
 
 - Government Certified **NAVTTC Artificial Intelligence – Practical Implementation**
 - **Microsoft Azure AI Fundamentals (AI-900)**
